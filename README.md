@@ -1,6 +1,6 @@
 # ![Banner](banner_github.png)
 
-I'm an experienced mechanical design engineer located in Texas. 
+I'm an experienced mechanical design engineer located in Texas. The following are selected projects to showcase the breadth of project experience I have.
 <!--
 **crahimza/crahimza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
