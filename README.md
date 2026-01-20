@@ -1,6 +1,6 @@
-## Hi there 👋
 # ![Banner](banner_github.png)
 
+I'm an experienced mechanical design engineer located in Texas. 
 <!--
 **crahimza/crahimza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
