@@ -1,6 +1,6 @@
 # ![Banner](banner_github.png)
 
-I'm an experienced mechanical design engineer located in Texas. The following are selected projects to showcase the breadth of project experience I have.
+I don’t just build models; I engineer systems that work in the real world. My expertise covers the full project lifecycle—from ideation and requirements development to material science and manufacturing process selection. I am not a hands-off theorist. I am a hands-on engineer who understands that a perfect CAD model is only the beginning. Below is a selection of projects—ranging from precision robotics to massive steel structures—that demonstrate my commitment to engineering excellence and practical, physical results.
 <!--
 **crahimza/crahimza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
