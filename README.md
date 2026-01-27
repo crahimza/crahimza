@@ -18,6 +18,7 @@ Led the end-to-end technical development for the Holcim facility upgrades, inclu
 
 Aerial image from Google Earth of the various structures within my project scope.
 
+<p>&nbsp;</p>
 
 <img src="structure.png" alt="Image that compares the AutoCAD drawing of the structure on the left to a photo of the actual completed structure on the right." width="100%">
 
