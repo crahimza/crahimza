@@ -8,3 +8,5 @@ Imported a pdf of patent 17581 from https://patents.google.com/patent/US17531A/e
 ![Project 1-1 GIF](pat_comparison.png)
 
 ![Project 1-2 GIF](17531-00_animated.gif)
+
+<img src="17531-00_animated.gif" width="100%">
