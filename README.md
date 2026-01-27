@@ -3,8 +3,7 @@
 I don’t just build models; I engineer systems that work in the real world. My expertise covers the full project lifecycle—from ideation and requirements development to material science and manufacturing process selection. I am not a hands-off theorist. I am a hands-on engineer who understands that a perfect CAD model is only the beginning. Below is a selection of projects—ranging from precision robotics to massive steel structures—that demonstrate my commitment to engineering excellence and practical, physical results.
 
 ## CAD Modeling Exercise - Patent 17,531 Wrench
-![Project 1 GIF](pat_comparison.png)
+Imported a pdf of patent 17581 from https://patents.google.com/patent/US17531A/en?oq=17531, scaled the image based on an overall length of 8" and then created the parts, assembly and animation in SolidWorks.
+![Project 1-1 GIF](pat_comparison.png)
 
-**Description** Imported a pdf of patent 17581 from https://patents.google.com/patent/US17531A/en?oq=17531, scaled the image based on an overall length of 8" and then created the parts, assembly and animation in SolidWorks.
-
-![Project 2 GIF](17531-00_animated.gif)
+![Project 1-2 GIF](17531-00_animated.gif)
