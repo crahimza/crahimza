@@ -4,7 +4,7 @@ I don’t just build models; I engineer systems that work in the real world. My 
 
 ## CAD Modeling Exercise - Patent 17,531 Wrench
 
-Imported a pdf of patent 17,531 from https://patents.google.com/patent/US17531A/en?oq=17531, scaled the image based on an overall length of 8" and then created the parts, assembly and animation in SolidWorks.
+Imported a pdf of patent 17,531 invented by Edward J. Worcester, dated June 9, 1857 from https://patents.google.com/patent/US17531A/en?oq=17531, scaled the image based on an overall length of 8" and then created the parts, assembly and animation in SolidWorks.
 
 <img src="pat_comparison.png" alt="Comparison of original patent artwork and CAD generated model based off of this artwork." width="100%">
 
