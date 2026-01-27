@@ -5,8 +5,7 @@ I don’t just build models; I engineer systems that work in the real world. My 
 ## CAD Modeling Exercise - Patent 17,531 Wrench
 
 Imported a pdf of patent 17581 from https://patents.google.com/patent/US17531A/en?oq=17531, scaled the image based on an overall length of 8" and then created the parts, assembly and animation in SolidWorks.
-![Project 1-1 GIF](pat_comparison.png)
 
-![Project 1-2 GIF](17531-00_animated.gif)
+<img src="pat_comparison.png" width="100%">
 
 <img src="17531-00_animated.gif" width="100%">
