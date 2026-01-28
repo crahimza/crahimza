@@ -11,7 +11,7 @@ Custom designed tourniquest test stands in use for environmental testing.
 <p>&nbsp;</p>
 
 <img src="git_operational_testing.png" alt="Image showing custom designed tourniquest test stands conducting operational testing by military personnel." width="100%">
-Custom designed tourniquest test stands in CAD and shown in use operational testing by military personnel.
+Custom designed tourniquest test stands in CAD and shown being used for operational testing by military personnel.
 <p>&nbsp;</p>
 
 <img src="git_drag_test.png" alt="Image showing custom designed tourniquest drag test stands." width="100%">
