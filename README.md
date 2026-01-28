@@ -16,7 +16,7 @@ Led the end-to-end technical development for the Holcim facility upgrades, inclu
 
 <img src="holcim_aerial_masked.png" alt="Aerial view from Google Earthh of the large steel structures I designed. Drawings were performed with AutoCAD and all hand calculations were performed by hand, verified with STAAD.Pro and then checked/approved by a Professional Engineer." width="100%">
 
-Aerial image from Google Earth of the various structures within my project scope.
+Aerial image from Google Earth of the various structures within my project scope (non blurred portion).
 
 <p>&nbsp;</p>
 
