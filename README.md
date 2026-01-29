@@ -36,7 +36,7 @@ Image compares the AutoCAD drawing of the structure on the left to a photo of th
 
 ## CAD Modeling
 
-Throughout my tenure at organizations such as Bell Flight, Siemens, GE, and Oil States, I have developed sophisticated, proprietary IP that remains under strict NDA. To demonstrate my technical methodology and commitment to engineering mentorship without compromising those agreements, I engage in Mechanical Reconstruction.
+Throughout my tenure at organizations such as Bell Helicopter, Oil States, Siemens and GE, I have developed sophisticated, proprietary IP that remains under strict NDA. To demonstrate my technical methodology and commitment to engineering mentorship without compromising those agreements, I engage in Mechanical Reconstruction.
 
 I identify historical patents with complex kinematic or structural features and translate them using modern CAD and additive manufacturing. By recreating these designs with SolidWorks and Prusa XL multi-tool systems, I aim to provide engaging, tangible examples for students and aspiring engineers. My goal is to bridge the gap between foundational mechanical principles and contemporary execution, hopefully lighting a spark in the next generation of technical problem-solvers.
 
