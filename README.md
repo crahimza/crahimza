@@ -21,7 +21,7 @@ Custom designed tourniquest test stands used for drag testing.
 
 ## Industrial Systems Design & Structural Analysis
 
-Led the end-to-end technical development for the Holcim facility upgrades, including P&ID, equipment sizing, and comprehensive structural design. I performed all primary structural analyses and load calculations, subsequently developing the corresponding detailed fabrication drawings in AutoCAD. All designs and calculations were formally reviewed and approved by a Licensed Professional Engineer (PE) prior to installation. I remained onsite to serve as the lead technical liaison, ensuring that field execution strictly adhered to the approved engineering specifications.
+Led the end-to-end technical development for facility upgrades at a large cement manufacturing plant in Texas, including P&ID, equipment sizing, and comprehensive structural design. I performed all primary structural analyses and load calculations, subsequently developing the corresponding detailed fabrication drawings in AutoCAD. All designs and calculations were formally reviewed and approved by a Licensed Professional Engineer (PE) prior to installation. I remained onsite to serve as the lead technical liaison, ensuring that field execution strictly adhered to the approved engineering specifications.
 
 <img src="holcim_aerial_masked.png" alt="Aerial view from Google Earthh of the large steel structures I designed. Drawings were performed with AutoCAD and all hand calculations were performed by hand, verified with STAAD.Pro and then checked/approved by a Professional Engineer." width="100%">
 
