@@ -4,7 +4,7 @@ I don’t just build models; I engineer systems that work in the real world. My 
 
 ## Mechanical System Design - Tourniquet Environmental and Operational Testing
 
-This project focused on the environmental effects and operational use of different tourniquets in different environments. This was a multiyear project that entailed system / mechanical / electrical / design of experiments / logistic / project management / fabrication effort working on a team. While my major responsibility was mechanical design, I also had a significant hand in the other areas and had the opportunity to work with a GREAT team. The information below and the results of this testing was presented at the Military Health System Research Symposium, (MHSRS).
+This project focused on the environmental effects and operational use of different tourniquets in different environments. This was a multiyear project that entailed system / mechanical / electrical / design of experiments / logistic / project management / fabrication effort working on a team. While my major responsibility was mechanical design, I also had a significant hand in the other areas and had the opportunity to work with a GREAT team. The information below and the results of this testing was presented at the Military Health System Research Symposium, (MHSRS). This information is approved for release and distribution is unlimited.
 
 <img src="environmental_testing.png" alt="Image showing custom designed tourniquest test stands in use for environmental testing." width="100%">
 Custom designed tourniquest test stands in use for environmental testing.
